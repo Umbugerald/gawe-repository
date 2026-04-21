@@ -1,9 +1,6 @@
-=======================================================================================================================
                                         KETUA : YASYFI RAHARJA (41825010016)
                                   ANGGOTA : UMBU GERALD DEBRYAN KAMURI (41825010012)
-=======================================================================================================================
-
-=======================================================================================================================
+                                  
                                           STACK TEKNOLOGI YANG DIGUNAKAN:
 
 FRONTEND (ANTARMUKA/KLIEN): "HTML5, CSS3 (FLEXBOX, MEDIA QUERIES), DAN VANILLA JAVASCRIPT (MANIPULASI DOM LANGSUNG)."
@@ -15,84 +12,116 @@ DATABASE (PENYIMPANAN): "MYSQL / MARIADB (TERHUBUNG VIA EKSTENSI MYSQLI)."
 KEAMANAN SISTEM: "PREPARED STATEMENTS (ANTI-SQLI), PASSWORD HASHING, SOFT DELETION, DAN SANITASI XSS."
 
 INFRASTRUKTUR & JARINGAN: "CLOUDFLARE TUNNEL (REVERSE PROXY, PENYEMBUNYIAN IP SERVER, DAN HTTPS/SSL OTOMATIS)."
-=======================================================================================================================
 
-Panduan Pengguna (User Manual)
-1. Registrasi Akun Baru
-Isi data diri: Nama Lengkap, Username, Password, dan No. Telp.
+PANDUAN PENGGUNA (USER MANUAL)
 
-Unggah Foto Profil.
+1. REGISTRASI AKUN BARU
+ISI DATA DIRI: NAMA LENGKAP, USERNAME, PASSWORD, DAN NO. TELP.
 
-Pilih Role:
+UNGGAH FOTO PROFIL.
 
-Pelanggan: Setelah daftar, Anda bisa langsung menggunakan aplikasi.
+PILIH ROLE:
 
-Pekerja: Anda wajib mengunggah Foto KTP dan menunggu verifikasi dari Admin sebelum bisa bekerja.
+ - PELANGGAN: SETELAH DAFTAR, ANDA BISA LANGSUNG MENGGUNAKAN APLIKASI.
 
-2.  Role: Pekerja (Worker)
-Berikut langkah-langkah untuk mengambil dan menyelesaikan pekerjaan:
+ - PEKERJA: ANDA WAJIB MENGUNGGAH FOTO KTP DAN MENUNGGU VERIFIKASI DARI ADMIN SEBELUM BISA BEKERJA.
 
-Login ke akun pekerja.
+2. ROLE: PEKERJA (WORKER)
+BERIKUT LANGKAH-LANGKAH UNTUK MENGAMBIL DAN MENYELESAIKAN PEKERJAAN:
 
-Atur Wilayah Kerja (Provinsi, Kota/Kabupaten, Kecamatan).
+ - LOGIN KE AKUN PEKERJA.
 
-Klik Cari Pekerjaan untuk melihat daftar permintaan di wilayah Anda.
+ - ATUR WILAYAH KERJA (PROVINSI, KOTA/KABUPATEN, KECAMATAN).
 
-Klik Terima pada kartu pekerjaan yang tersedia.
+ - KLIK CARI PEKERJAAN UNTUK MELIHAT DAFTAR PERMINTAAN DI WILAYAH ANDA.
 
-Pekerjaan akan masuk ke Tab Diterima.
+ - KLIK TERIMA PADA KARTU PEKERJAAN YANG TERSEDIA.
 
-Navigasi & Komunikasi:
+ - PEKERJAAN AKAN MASUK KE TAB DITERIMA.
 
-Klik Tombol Hijau WhatsApp untuk menghubungi pelanggan.
+NAVIGASI & KOMUNIKASI:
 
-Klik Tombol Gmaps untuk menuju lokasi pelanggan.
+ - KLIK TOMBOL HIJAU WHATSAPP UNTUK MENGHUBUNGI PELANGGAN.
 
-Saat tiba, klik Sampai di Tujuan.
+ - KLIK TOMBOL GMAPS UNTUK MENUJU LOKASI PELANGGAN.
 
-Klik Mulai Kerjakan saat mulai bekerja.
+ - SAAT TIBA, KLIK SAMPAI DI TUJUAN.
 
-Jika selesai, Upload Foto Bukti dan klik Selesaikan.
+ - KLIK MULAI KERJAKAN SAAT MULAI BEKERJA.
 
-Untuk keluar, klik Foto Profil lalu pilih Log Out.
+ - JIKA SELESAI, UPLOAD FOTO BUKTI DAN KLIK SELESAIKAN.
 
-3. Role: Pelanggan (Customer)
-Berikut langkah-langkah untuk memesan jasa:
+ - UNTUK KELUAR, KLIK FOTO PROFIL LALU PILIH LOG OUT.
 
-Login ke akun pelanggan.
+PANDUAN PENGGUNA (USER MANUAL)
+1. REGISTRASI AKUN BARU
+ISI DATA DIRI: NAMA LENGKAP, USERNAME, PASSWORD, DAN NO. TELP.
 
-Isi keluhan Anda pada kolom "Apa keluhan anda hari ini?" dan tekan Enter.
+UNGGAH FOTO PROFIL.
 
-Atur Alamat: Pilih alamat yang ada atau klik Tambah Alamat Baru (Isi nama penerima, alamat lengkap, dan titik koordinat).
+PILIH ROLE:
 
-Isi Detail Keluhan lebih lanjut dan Upload Foto kendala.
+PELANGGAN: SETELAH DAFTAR, ANDA BISA LANGSUNG MENGGUNAKAN APLIKASI.
 
-Masukkan Harga Tawaran yang Anda inginkan.
+PEKERJA: ANDA WAJIB MENGUNGGAH FOTO KTP DAN MENUNGGU VERIFIKASI DARI ADMIN SEBELUM BISA BEKERJA.
 
-Pantau Riwayat:
+2. ROLE: PEKERJA (WORKER)
+BERIKUT LANGKAH-LANGKAH UNTUK MENGAMBIL DAN MENYELESAIKAN PEKERJAAN:
 
-Jika dalam 5 menit tidak ada pekerja yang mengambil, status menjadi Gagal (Saran: Naikkan tawaran harga).
+LOGIN KE AKUN PEKERJA.
 
-Jika diterima, pesanan masuk ke Tab Proses.
+ATUR WILAYAH KERJA (PROVINSI, KOTA/KABUPATEN, KECAMATAN).
 
-Setelah pengerjaan selesai, Anda wajib memberikan Penilaian (Rating) atau melakukan Laporan (Report) jika terjadi masalah.
+KLIK CARI PEKERJAAN UNTUK MELIHAT DAFTAR PERMINTAAN DI WILAYAH ANDA.
 
-4. Role: Admin
-Admin bertanggung jawab atas manajemen ekosistem aplikasi:
+KLIK TERIMA PADA KARTU PEKERJAAN YANG TERSEDIA.
 
-Login (Akun dibuatkan oleh Supervisor).
+PEKERJAAN AKAN MASUK KE TAB DITERIMA.
 
-Dashboard: Memantau statistik data pelanggan, pekerja, laporan, dan total order.
+NAVIGASI & KOMUNIKASI:
 
-Manajemen Status: Berwenang mengubah status_kerja (verifikasi/suspend pekerja).
+KLIK TOMBOL HIJAU WHATSAPP UNTUK MENGHUBUNGI PELANGGAN.
 
-Kontrol Order: Berwenang membatalkan orderan jika terjadi kecurangan atau masalah teknis.
+KLIK TOMBOL GMAPS UNTUK MENUJU LOKASI PELANGGAN.
 
-Manajemen Laporan: Memproses setiap report yang dikirimkan oleh pelanggan.
+SAAT TIBA, KLIK SAMPAI DI TUJUAN.
 
-Catatan Teknis
-Sistem Timeout: Pesanan otomatis hangus jika tidak diambil pekerja dalam 5 menit.
+KLIK MULAI KERJAKAN SAAT MULAI BEKERJA.
 
-Integrasi: Menggunakan WhatsApp API dan Google Maps API.
+JIKA SELESAI, UPLOAD FOTO BUKTI DAN KLIK SELESAIKAN.
 
-Keamanan: Pekerja wajib melalui proses verifikasi KTP secara manual oleh Admin.
+UNTUK KELUAR, KLIK FOTO PROFIL LALU PILIH LOG OUT.
+
+3. ROLE: PELANGGAN (CUSTOMER)
+BERIKUT LANGKAH-LANGKAH UNTUK MEMESAN JASA:
+
+ - LOGIN KE AKUN PELANGGAN.
+
+ - ISI KELUHAN ANDA PADA KOLOM "APA KELUHAN ANDA HARI INI?" DAN TEKAN ENTER.
+
+ - ATUR ALAMAT: PILIH ALAMAT YANG ADA ATAU KLIK TAMBAH ALAMAT BARU (ISI NAMA PENERIMA, ALAMAT LENGKAP, DAN TITIK KOORDINAT).
+
+ - ISI DETAIL KELUHAN LEBIH LANJUT DAN UPLOAD FOTO KENDALA.
+
+ - MASUKKAN HARGA TAWARAN YANG ANDA INGINKAN.
+
+PANTAU RIWAYAT:
+
+ - JIKA DALAM 5 MENIT TIDAK ADA PEKERJA YANG MENGAMBIL, STATUS MENJADI GAGAL (SARAN: NAIKKAN TAWARAN HARGA).
+
+ - JIKA DITERIMA, PESANAN MASUK KE TAB PROSES.
+
+ - SETELAH PENGERJAAN SELESAI, ANDA WAJIB MEMBERIKAN PENILAIAN (RATING) ATAU MELAKUKAN LAPORAN (REPORT) JIKA TERJADI MASALAH.
+
+4. ROLE: ADMIN
+ADMIN BERTANGGUNG JAWAB ATAS MANAJEMEN EKOSISTEM APLIKASI:
+
+ - LOGIN (AKUN DIBUATKAN OLEH SUPERVISOR).
+
+ - DASHBOARD: MEMANTAU STATISTIK DATA PELANGGAN, PEKERJA, LAPORAN, DAN TOTAL ORDER.
+
+ - MANAJEMEN STATUS: BERWENANG MENGUBAH STATUS_KERJA (VERIFIKASI/SUSPEND PEKERJA).
+
+ - KONTROL ORDER: BERWENANG MEMBATALKAN ORDERAN JIKA TERJADI KECURANGAN ATAU MASALAH TEKNIS.
+
+ - MANAJEMEN LAPORAN: MEMPROSES SETIAP REPORT YANG DIKIRIMKAN OLEH PELANGGAN.
